@@ -66,13 +66,13 @@ function efectoHabilidades(){
             pintarBarra(wordpress, 8, 2, intervalWordpress);
         },100);
         const intervalPhotoshop = setInterval(function(){
-            pintarBarra(photoshop, 10, 3, intervalPhotoshop);
+            pintarBarra(photoshop, 9, 3, intervalPhotoshop);
         },100);
         const intervalPhp = setInterval(function(){
-            pintarBarra(php, 10, 4, intervalPhp);
+            pintarBarra(php, 9, 4, intervalPhp);
         },100);
         const intervalIlustrator = setInterval(function(){
-            pintarBarra(ilustrator, 13, 5, intervalIlustrator);
+            pintarBarra(ilustrator, 6, 5, intervalIlustrator);
         },100);
     }
 }
